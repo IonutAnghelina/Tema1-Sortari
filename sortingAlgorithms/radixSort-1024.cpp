@@ -1,7 +1,7 @@
 /**
  * RadixSort Algorithm with base: 1024
  * Time complexity: O(n*(maxVal/1024))-WorstCase
- * Additional Memory: O(n)-Can be improved to O(1)
+ * Additional Memory: O(n+maxVal)
  */
 
 #include<cstdio>
